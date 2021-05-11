@@ -11,6 +11,7 @@ footer,header,menu,nav {
     background-color: #fff;
 }
 
+/*Search form*/
 .form-group {
     width: 300px;
     text-align: center;
@@ -36,11 +37,14 @@ footer,header,menu,nav {
     color: #dfe1e5;
 }
 
+/*buttons*/
+
 .btns {
     margin: 10px;
     text-align: center;
 }
 
+/*header nav starts here*/
 .main_nav {
     text-align: right;
     margin-bottom: 250px;
