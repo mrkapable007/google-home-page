@@ -19,6 +19,8 @@ footer,header,menu,nav {
 
 .has-search .form-control {
     padding-left: 0.375rem;
+    color: #dfe1e5;
+    border-radius: 15px;
 }
 
 .has-search .form-control-feedback {
@@ -31,7 +33,7 @@ footer,header,menu,nav {
     text-align: center;
     pointer-events: none;
     margin-left: 250px;
-    color: #aaa;
+    color: #dfe1e5;
 }
 
 .btns {
